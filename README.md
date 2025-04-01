@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Cleildo Gomes
 **`Desenvolvedor Back-end`**
 </br>
-# 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
@@ -36,7 +36,7 @@
 />
 </br>
 </br>
-# 📊 Estatísticas
+## 📊 Estatísticas
 <p>
   <img 
     align="left" 
