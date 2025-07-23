@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Cleildo Gomes
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Front-end`**
 </br>
 ## 🤖 Linguagens e Tecnologias
 <img 
