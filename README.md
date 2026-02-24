@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Cleildo Gomes
-**`Especialista em Suporte de TI`**
+**`Especialista em Suporte de TI` e **'Desenvolvedor Front-End'**
 </br>
 ## 🤖 Linguagens e Tecnologias
 <img 
